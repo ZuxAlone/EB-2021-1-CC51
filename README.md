@@ -39,7 +39,7 @@ El Objetivo del trabajo consta en identificar las características que tienen en
 
 ## 3. Conjunto de Datos <a name="data3"></a>
 
-El caso analizado en el trabajo proviene del conjunto de datos recolectados por parte de Mitchell J acerca de los videos más populares de la plataforma de Youtube.  Los videos que se han seleccionado para este caso son del país de Alemania, desde el 2017 hasta el 2018. Este conjunto de datos se encuentra publicado en la plataforma “Kaggle” con el nombre del dataset como “Trending YouTube Video Statistics” la cual esta conformado por 20 variables.
+El caso analizado en el trabajo proviene del conjunto de datos recolectados por parte de Mitchell J acerca de los videos más populares de la plataforma de Youtube.  Los videos que se han seleccionado para este caso son del país de Alemania, desde el 2017 hasta el 2018. Este conjunto de datos se encuentra publicado en la plataforma “Kaggle” con el nombre del dataset como “Trending YouTube Video Statistics” el cual esta conformado por 20 variables.
     
 <table>
 <thead><tr><th scope=col>#ID</th><th scope=col>Nombre</th><th scope=col>Tipo</th><th scope=col>Descripción</th></tr></thead>
