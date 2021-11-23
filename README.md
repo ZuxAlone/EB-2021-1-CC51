@@ -14,7 +14,7 @@
 
 1. [Objetivo del Trabajo](#data1)
 
-2. [Alumnos Participantes](#data2)
+2. [Alumnos Participantes del Proyecto](#data2)
 
 3. [Conjunto de Datos](#data3)
     
@@ -25,10 +25,6 @@
 ## 1. Objetivo del Trabajo <a name="data1"></a>
     
 El Objetivo del trabajo consta en identificar las características que tienen en común los videos que son tendencia en la plataforma “Youtube” a través de un análisis de datos. Esto permitirá responder a diversas incógnitas e identificar la posibilidad de predicción de "Vistas", "Me Gusta" y "No Me Gusta".
-    
-El caso analizado en el trabajo proviene del conjunto de datos recolectados por parte de Mitchell J acerca de los videos más populares de la plataforma de Youtube.  Los videos que se han seleccionado para este caso son del país de Alemania, desde el 2017 hasta el 2018. Este conjunto de datos se encuentra publicado en la plataforma “Kaggle” con el nombre del dataset como “Trending YouTube Video Statistics” la cual esta conformado por 20 variables.
-    
-La finalidad del análisis de este caso es utilizar la información de los videos para conocer más sobre cuáles son los de mayor tendencia y así identificar qué características son las que están presentes mayormente en estos tipos de videos.
 
 ## 2. Alumnos <a name="data2"></a>
     
@@ -43,8 +39,7 @@ La finalidad del análisis de este caso es utilizar la información de los video
 
 ## 3. Conjunto de Datos <a name="data3"></a>
 
-
-    
+El caso analizado en el trabajo proviene del conjunto de datos recolectados por parte de Mitchell J acerca de los videos más populares de la plataforma de Youtube.  Los videos que se han seleccionado para este caso son del país de Alemania, desde el 2017 hasta el 2018. Este conjunto de datos se encuentra publicado en la plataforma “Kaggle” con el nombre del dataset como “Trending YouTube Video Statistics” la cual esta conformado por 20 variables.
     
 <table>
 <thead><tr><th scope=col>#ID</th><th scope=col>Nombre</th><th scope=col>Tipo</th><th scope=col>Descripción</th></tr></thead>
@@ -71,12 +66,16 @@ La finalidad del análisis de este caso es utilizar la información de los video
     <tr><td>20                                                  </td><td>geometry                                                </td><td>Texto                                                </td><td>Indica las coordenadas del estado.                                  </td></tr>
 </tbody>
 </table>
-    
+
+La finalidad del análisis de este caso es utilizar la información de los videos para conocer más sobre cuáles son los de mayor tendencia y así identificar qué características son las que están presentes mayormente en estos tipos de videos. Y, mediante el uso de estos datos brindados, hemos podido desarrollar un análisis exploratorio de datos para responder las incógnitas dadas.   
+	
+Adjuntamos nuestro archivo PDF en donde explicamos los pasos utilizados para el análisis de datos, nuestras respuestas ante las preguntas hechas y nuestras conclusiones preliminares del proyecto:
+	
     Archivo PDF: https://docs.google.com/document/d/1YxxyHUyxA2617R70M0AJFEoNXZC-hBJYUGAfqXs332c/edit?usp=sharing (Convertir a PDF)
     
 
 ## 4. Conclusiones <a name="data4"></a>
     
-Como conclusión,.
+Como conclusión general, el uso de Python para la administración de los datos es una herramienta muy favorable ya que te da muchas opciones para la gestión de grandes cantidades de datos. Asimismo, su manejo, procesamiento y análisis gráfico nos han podido ayudar en el desarrollo y demostración de nuestras conclusiones a las incógnitas del trabajo.
   
 © 2021 The Author(s). by UPC
